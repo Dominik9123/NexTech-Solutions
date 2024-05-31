@@ -80,6 +80,26 @@ section {
     display: none;
 }
 
+
+.text-1 {
+    width: 400px;
+    padding: 20px;
+    margin-left: 250px;
+    text-align: center;
+}
+
+.text-1 p {
+    margin: 0;
+}
+
+.text-enter {
+    text-shadow: 2px 2px 5px gray;
+}
+
+
+
+
+
   @keyframes color {
     0% {
         background-position: 0 50%;
